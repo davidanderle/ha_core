@@ -242,6 +242,7 @@ FLOWS = {
         "gree",
         "growatt_server",
         "guardian",
+        "ha_eink_display",
         "habitica",
         "harmony",
         "heos",

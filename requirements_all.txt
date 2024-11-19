@@ -582,6 +582,7 @@ bleak-esphome==1.1.0
 bleak-retry-connector==3.6.0
 
 # homeassistant.components.bluetooth
+# homeassistant.components.ha_eink_display
 bleak==0.22.3
 
 # homeassistant.components.blebox

@@ -1,0 +1,13 @@
+{
+  "domain": "ha_eink_display",
+  "name": "HA E-Ink Display",
+  "codeowners": ["@davidanderle"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/ha_eink_display",
+  "homekit": {},
+  "iot_class": "local_polling",
+  "requirements": ["bleak==0.22.3"],
+  "ssdp": [],
+  "zeroconf": []
+}
